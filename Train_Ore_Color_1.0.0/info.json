@@ -1,0 +1,9 @@
+{
+	"name": "Train_Ore_Color",
+	"version": "1.0.0",
+	"title": "Train Ore Color",
+	"author": "Sirenfal",
+	"description": "Sets train colors based on their contents",
+	"dependencies": ["base >= 0.14.0"],
+	"factorio_version": "0.14.0"
+}
