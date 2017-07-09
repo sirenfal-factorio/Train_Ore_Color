@@ -12,9 +12,10 @@ This does *not* currently support any fluid barrels.
 
 # (For developers) Compatibility
 
-You may contact me and let me know appropriate RGB colors for each of your resource types, as well as their internal name and I'll add them to the base mod. 
+You may contact me and let me know appropriate RGB colors for each of your resource types, as well as their internal name and I'll add them to the base mod.
 
 # Changelog
 
+- **1.1.1:** Version bump for 0.15.x
 - **1.1:** Added support for Bob's, Angel's, and Dark Matter Replicator.
 - **1.0:** Initial release.
